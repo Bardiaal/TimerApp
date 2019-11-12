@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner">
+        <item>AsyncTask</item>
+        <item>Thread</item>
+        <item>TimerTask</item>
+    </string-array>
+</resources>

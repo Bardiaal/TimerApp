@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="title">Timer</string>
+    <string name="button_start">Tap the button below to start the countdown</string>
+    <string name="button_stop">Tap the button below to stop the countdown</string>
+    <string name="timer_start">--</string>
+    <string name="subtitle">Perform countdown with: </string>
+    <string name="err">Something has interrupted the countdown...</string>
+    <string name="finished">Countdown has finished!</string>
+    <string name="finished_by_user">Countdown has been stopped by the user</string>
+    <string name="seg">Secs.</string>
+    <string name="secs">Time:</string>
+</resources>
